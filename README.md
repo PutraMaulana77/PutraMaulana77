@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Putra Maulana</h1>
-<h3 align="center">Full-Stack Web Developer & Cybersecurity Enthusiast</h3>
+<h3 align="center">Junior Full-Stack Web Developer & Cybersecurity Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&pause=100&center=true&vCenter=true&width=440&lines=Code.+Debug.+Repeat.;Build+with+passion+%F0%9F%94%A5;Stay+curious%2C+stay+secure+%F0%9F%9A%80" alt="Typing SVG" />
