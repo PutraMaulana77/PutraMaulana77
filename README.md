@@ -2,8 +2,9 @@
 <h3 align="center">Full-Stack Web Developer & Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Code.+Debug.+Repeat.;Build+with+passion+%F0%9F%94%A5;Stay+curious%2C+stay+secure+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&pause=100&center=true&vCenter=true&width=440&lines=Code.+Debug.+Repeat.;Build+with+passion+%F0%9F%94%A5;Stay+curious%2C+stay+secure+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -21,8 +22,10 @@
 <!-- Custom Whoami typing animation -->
 <p align="center">
   <code><b>whoami</b></code><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=200&color=36BCF7&vCenter=true&width=600&lines=Just+a+guy+who+loves+code+and+cybersec.;Building+stuff+with+vibes+and+passion.;Exploring+the+internet%2C+securely+%F0%9F%94%92" alt="terminal-typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=500&size=38&duration=2500&pause=100&color=36BCF7&vCenter=true&width=700&lines=Just+a+guy+who+loves+code+and+cybersec.;Building+stuff+with+vibes+and+passion.;Exploring+the+internet%2C+securely+%F0%9F%94%92" alt="terminal-typing" />
 </p>
+
+
 
 ---
 
