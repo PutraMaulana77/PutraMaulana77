@@ -11,11 +11,11 @@
 ### 🧠 About Me
 
 - 💻 I’m a self-taught full-stack developer
-- 🛡️ **Cybersecurity** is my side obsession
+- 🛡️ **Cybersecurity Enthusiast* always fascinated by security topics
 - 🐍 Currently working with **Python**, **PHP**, **Java**, and web stacks
 - 🌐 Front-end love: **TailwindCSS**, **Bootstrap**, **HTML/CSS**
 - 🛠️ Back-end playground: **Laravel**, custom PHP, APIs
-- 🎮 I once made a game in Java using Greenfoot 😎
+- 🎮 I once made a game in Java using Greenfoot
 
 ---
 
