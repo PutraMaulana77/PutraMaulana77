@@ -13,7 +13,7 @@
 - 💻 I’m a self-taught full-stack developer
 - 🛡️ **Cybersecurity Enthusiast** always fascinated by security topics
 - 🐍 Currently working with **Python**, **PHP**, **Java**, and web stacks
-- 🌐 Front-end love: **TailwindCSS**, **Bootstrap**, **HTML/CSS**
+- 🌐 Front-end: **TailwindCSS**, **Bootstrap**, **HTML/CSS**
 - 🛠️ Back-end playground: **Laravel**, custom PHP, APIs
 - 🎮 I once made a game in Java using Greenfoot
 
